@@ -1,0 +1,26 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687248378337,
+            "name": "C:\\Users\\ernja\\Downloads\\node-typescript-starter-main\\logs\\access.2023-06-20.log",
+            "hash": "6a3d8d536181c33a4552cf3fca1cd9e7"
+        },
+        {
+            "date": 1687252958753,
+            "name": "C:\\Users\\ernja\\Downloads\\node-typescript-starter-main - CALLCENTER\\logs\\access.2023-06-20.log",
+            "hash": "cb66309bde88fed35467b5a50c5580f2"
+        },
+        {
+            "date": 1687309464469,
+            "name": "C:\\Users\\ernja\\Downloads\\node-typescript-starter-main - CALLCENTER\\logs\\access.2023-06-21.log",
+            "hash": "521732df7fc29dcee6b5408b3d9914f2"
+        }
+    ]
+}
